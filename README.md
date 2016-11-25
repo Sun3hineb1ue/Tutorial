@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+   <key>items</key>  
+   <array>  
+       <dict>  
+           <key>assets</key>  
+           <array>  
+              <dict>  
+                  <key>kind</key>  
+                  <string>software-package</string>  
+                   <key>url</key>  
+                  <string>http://111.160.18.28:8888/soft/appsoft/aaahi10043/aaahi10043.ipa</string>  
+              </dict>  
+               <dict>  
+                 <key>kind</key>  
+                 <string>display-image</string>  
+                 <key>needs-shine</key>  
+                <true/>  
+                <key>url</key>  
+                <string>http://111.160.18.28:8888/soft/appsoft/aaahi10043/icon.png</string></span>  
+             </dict>  
+           <dict>  
+                  <key>kind</key>  
+                  <string>full-size-image</string>  
+                  <key>needs-shine</key>  
+                  <true/>  
+                   <key>url</key>  
+                   <string>http://111.160.18.28:8888/soft/appsoft/aaahi10043/icon.png</string>  
+               </dict>  
+           </array><key>metadata</key>  
+           <dict>  
+               <key>bundle-identifier</key>  
+               <string>com.anjiakeji.QHSE</string>  
+               <key>bundle-version</key>  
+              <string>01.02.0465</string>  
+               <key>kind</key>  
+               <string>software</string>  
+               <key>subtitle</key>  
+               <string>YourAppName</string>  
+               <key>title</key>  
+               <string>YourAppName</string>  
+           </dict>  
+       </dict>  
+   </array>  
+</dict>  
+</plist> 
